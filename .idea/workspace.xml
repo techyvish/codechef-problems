@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="codingblocks" targetName="countsubstrings" />
+      <config projectName="codingblocks" targetName="main" />
+      <config projectName="codingblocks" targetName="steptoone" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0436dc3-19ee-42f2-ac51-92568965c716" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Wuds0IyPZhFeiKkTSKz1whMFQE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="CMake Application.countsubstrings">
+    <configuration name="countsubstrings" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="codingblocks" TARGET_NAME="countsubstrings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="codingblocks" RUN_TARGET_NAME="countsubstrings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="codingblocks" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="codingblocks" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="steptoone" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="codingblocks" TARGET_NAME="steptoone" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="codingblocks" RUN_TARGET_NAME="steptoone">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.countsubstrings" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.steptoone" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0436dc3-19ee-42f2-ac51-92568965c716" name="Default Changelist" comment="" />
+      <created>1580003616862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580003616862</updated>
+      <workItem from="1580003618100" duration="324000" />
+      <workItem from="1580003958804" duration="253000" />
+      <workItem from="1580004215166" duration="105000" />
+      <workItem from="1580018578485" duration="2212000" />
+      <workItem from="1580081053710" duration="2844000" />
+      <workItem from="1580143037008" duration="1335000" />
+      <workItem from="1580180149828" duration="4738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580004136912">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state x="360" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1058@0.23.1792.1058" timestamp="1580004136912" />
+    <state x="634" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580143027060">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state x="634" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1058@0.23.1792.1058" timestamp="1580143027060" />
+    <state width="413" height="466" key="DebuggerActiveHint" timestamp="1580229401794">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="413" height="466" key="DebuggerActiveHint/0.23.1792.1058@0.23.1792.1058" timestamp="1580229401794" />
+    <state width="1750" height="164" key="GridCell.Tab.0.bottom" timestamp="1580274057526">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="164" key="GridCell.Tab.0.bottom/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057526" />
+    <state width="1750" height="164" key="GridCell.Tab.0.center" timestamp="1580274057525">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="164" key="GridCell.Tab.0.center/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057525" />
+    <state width="1750" height="164" key="GridCell.Tab.0.left" timestamp="1580274057525">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="164" key="GridCell.Tab.0.left/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057525" />
+    <state width="1750" height="164" key="GridCell.Tab.0.right" timestamp="1580274057525">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="164" key="GridCell.Tab.0.right/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057525" />
+    <state width="1750" height="182" key="GridCell.Tab.1.bottom" timestamp="1580274057435">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="182" key="GridCell.Tab.1.bottom/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057435" />
+    <state width="1750" height="182" key="GridCell.Tab.1.center" timestamp="1580274057435">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="182" key="GridCell.Tab.1.center/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057435" />
+    <state width="1750" height="182" key="GridCell.Tab.1.left" timestamp="1580274057435">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="182" key="GridCell.Tab.1.left/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057435" />
+    <state width="1750" height="182" key="GridCell.Tab.1.right" timestamp="1580274057435">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state width="1750" height="182" key="GridCell.Tab.1.right/0.23.1792.1058@0.23.1792.1058" timestamp="1580274057435" />
+    <state x="397" y="191" key="SettingsEditor" timestamp="1580018683462">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state x="397" y="191" key="SettingsEditor/0.23.1792.1058@0.23.1792.1058" timestamp="1580018683462" />
+    <state x="573" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1580018578913">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state x="573" y="384" key="com.intellij.ide.util.TipDialog/0.23.1792.1058@0.23.1792.1058" timestamp="1580018578913" />
+    <state x="445" y="295" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580229322623">
+      <screen x="0" y="23" width="1792" height="1058" />
+    </state>
+    <state x="445" y="295" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1792.1058@0.23.1792.1058" timestamp="1580229322623" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/steptoone.cpp</url>
+          <line>49</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
